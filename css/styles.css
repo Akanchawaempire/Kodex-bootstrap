@@ -1,7 +1,6 @@
 .navbar {
   position: sticky;
   top: 0;
-  background-color: goldenrod !important;
   z-index: 9999999;
 }
 
